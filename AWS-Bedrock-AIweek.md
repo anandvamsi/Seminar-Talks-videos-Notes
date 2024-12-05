@@ -1,4 +1,4 @@
-# Notes of AI week.
+# Notes of AI week:: Introduction of AWS Bedrock.
 
 ## How to Evaluate the between the models.
 Based on the values of 
